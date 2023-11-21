@@ -13,7 +13,7 @@ const EmailSection = () => {
             <h5 className='text-xl font-bold text-white my-2'>Rentrons en contact !</h5>
             <p className='text-[#ADB7BE] mb-4 max-w-md'>
                 {" "}
-                Vous trouverez ci-dessous mes coordonnées professionnelles, n'hésitez pas à me contacter si vous souhaitez en savoir plus sur moi ou si vous avez des opportunités de stage à me proposer.
+                Vous trouverez ci-dessous mes coordonnées professionnelles, n&apos;hésitez pas à me contacter si vous souhaitez en savoir plus sur moi ou si vous avez des opportunités de stage à me proposer.
             </p>
             <div className='socials flex flex-row gap-2'>
                 <Link href='https://github.com/FannickK'>
