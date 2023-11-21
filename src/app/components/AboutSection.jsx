@@ -72,7 +72,7 @@ const AboutSection = () => {
           <Image src="/images/about-image.png" width={500} height={500} />
           <div className='mt-4 md:mt-0 text-left flex flex-col h-full'>
             <h2 className='text-4xl font-bold text-white mb-4'>A PROPOS DE MOI</h2>
-            <p className='text-base lg:text-lg'>Je suis un jeune étudiant de 21 ans en fin d'études à l'Université de Lille passionné par le développement web et l'analyse de données. En dehors de mes études j'aime bien jouer au basket, ecouter de la musique et faire à manger</p>
+            <p className='text-base lg:text-lg'>Je suis un jeune étudiant de 21 ans en fin d&apos;études à l&apos;Université de Lille passionné par le développement web et l&apos;analyse de données. En dehors de mes études j&apos;aime bien jouer au basket, écouter de la musique et faire à manger</p>
             <div className='flex flex-row justify-start mt-8'>
               <TabButton 
                 selectTab={() => handleTabChange("skills")} 
