@@ -29,7 +29,7 @@ const HeroSection = () => {
                     />
                 </h1>
                 <p className='text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl'>
-                    Étudiant en Master 2 Web Analyste, passionné à la fois par le monde du développement web et de l'analyse de données. Je suis actuellement à la recherche d'un stage de fin d&apos;étude dans l'un de ces deux domaines à partir de Janvier 2024
+                    Étudiant en Master 2 Web Analyste, passionné à la fois par le monde du développement web et de l&apos;analyse de données. Je suis actuellement à la recherche d&apos;un stage de fin d&apos;étude dans l&apos;un de ces deux domaines à partir de Janvier 2024
                 </p>
                 <div>
                     <a className='px-6 py-3 w-full sm:w-fit rounded-full mr-4 bg-white hover:bg-slate-200 text-black' href="#contact">Hire Me</a>
